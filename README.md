@@ -7,6 +7,9 @@ Experimental AMM-based decentralized exchange built on X1 EcoChain testnet featu
 ## Contracts
 
 ### USDZ.sol
+
+Contract Address: 0xA23B64498B1Dd0fAC3f5249c62Ecf4491dB76BB1
+
 ERC20 stablecoin contract used for DEX liquidity and swap testing.
 
 Features:
@@ -18,6 +21,9 @@ Features:
 ---
 
 ### MiniSwapDEXV1.sol
+
+Contract Address: 0x8CDB37A2729b8546a7D941de765291dEdEd76641
+
 Basic Automated Market Maker (AMM) decentralized exchange contract.
 
 Features:
